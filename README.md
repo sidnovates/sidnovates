@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sidnovates/sidnovates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner.svg" width="100%" alt="Banner"/>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Siddharth 👋
+
+### Software Engineer • AI Engineer
+
+I enjoy building scalable backend systems, AI-powered applications, and distributed software that solves real-world problems.
+
+<br>
+
+<a href="https://github.com/sidnovates">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/siddharth-anil-32271a327">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:siddniya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
