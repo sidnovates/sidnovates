@@ -1,0 +1,90 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0D1117">
+<animate attributeName="stop-color"
+values="#0D1117;#161B22;#0D1117"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#161B22">
+<animate attributeName="stop-color"
+values="#161B22;#1F6FEB;#161B22"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+</linearGradient>
+
+<linearGradient id="line" x1="0%" y1="0%" x2="100%">
+<stop offset="0%" stop-color="#58A6FF"/>
+<stop offset="100%" stop-color="#79C0FF"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+
+<circle cx="150" cy="80" r="120" fill="#58A6FF" opacity="0.08">
+<animate attributeName="cx"
+values="150;220;150"
+dur="10s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="980" cy="260" r="170" fill="#79C0FF" opacity="0.06">
+<animate attributeName="cx"
+values="980;900;980"
+dur="12s"
+repeatCount="indefinite"/>
+</circle>
+
+<line x1="90" y1="70" x2="1110" y2="70"
+stroke="url(#line)"
+stroke-width="2">
+<animate attributeName="x2"
+values="90;1110"
+dur="2s"
+fill="freeze"/>
+</line>
+
+<text
+x="90"
+y="145"
+fill="#E6EDF3"
+font-size="44"
+font-family="Segoe UI, Arial"
+font-weight="700">
+Siddharth Anil
+</text>
+
+<text
+x="90"
+y="185"
+fill="#79C0FF"
+font-size="24"
+font-family="Segoe UI, Arial">
+Software Engineer • AI Engineer
+</text>
+
+<text
+x="90"
+y="230"
+fill="#C9D1D9"
+font-size="18"
+font-family="Segoe UI, Arial">
+Building scalable backend systems, AI applications,
+and distributed computing solutions.
+</text>
+
+<text
+x="90"
+y="275"
+fill="#58A6FF"
+font-size="16"
+font-family="Consolas">
+Java • Python • Spring Boot • FastAPI • Machine Learning
+</text>
+
+</svg>
